@@ -1,0 +1,1 @@
+# A Full Stack Stock Exchange and Investment Platform
